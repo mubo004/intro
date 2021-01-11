@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Худжанд</h1>
+    <img src="img/Без названия.jpg">
+    <p>Город на севере <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD">Таджикистана</a>, административный центр Согдийской области. Один из древнейших городов Центральной Азии. Второй по величине город Таджикистана, важный транспортный узел, политический, экономический, культурный и научный центр страны. Имеется аэропорт и железнодорожная станция Худжанд.</p>
+    <h2>Население</h2>
+    <p>Худжанд — второй по населению город Таджикистана после Душанбе. На 1 января 2019 года в нём проживало 181 600 человек.
+
+        По переписи населения 1897 года 28 431 житель города указал в качестве родного таджикский язык, 900 — узбекский (из них 305 — сартское наречие), 458 — русский[8]. Коренные Худжандцы в основном таджики а приезжие с районов и кишлаков узбеки, киргизы и другие народы.
+        
+        Население Худжандской агломерации насчитывает 931 900 человек.</p>
+        
+    <h3>Местоположение</h3>
+    <div id="wrapper-9cd199b9cc5410cd3b1ad21cab2e54d3">
+		<div id="map-9cd199b9cc5410cd3b1ad21cab2e54d3"></div><script>(function () {
+        var setting = {"height":391,"width":719,"zoom":12,"queryString":"Худжанд, Таджикистан","place_id":"ChIJDT6rw92ysTgRN-5Pz0XcTB8","satellite":false,"centerCoord":[40.28665138816889,69.63692660450408],"cid":"0x1f4cdc45cf4fee37","lang":"ru","cityUrl":"/tajikistan/khujand-137508","cityAnchorText":"Карта [CITY1], Таджикистан","id":"map-9cd199b9cc5410cd3b1ad21cab2e54d3","embed_id":"346044"};
+        var d = document;
+        var s = d.createElement('script');
+        s.src = 'https://1map.com/js/script-for-user.js?embed_id=346044';
+        s.async = true;
+        s.onload = function (e) {
+          window.OneMap.initMap(setting)
+        };
+        var to = d.getElementsByTagName('script')[0];
+        to.parentNode.insertBefore(s, to);
+      })();</script><a href="https://1map.com/ru/map-embed">1 Map</a></div>
+
+    <h2>Достопримечательности</h2>
+    <h4>Башня "Точ"</h4>
+    <img src="img/toj.jpg">
+    <h4>Парк Камол Хучанд</h4>
+    <img src="img/park.jpg">
+    <h4>Флаг</h4>
+    <img src="img/parcham.jpg">
+    <h4>Мечеть</h4>
+
+</html>
